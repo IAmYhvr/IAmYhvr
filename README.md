@@ -1,5 +1,7 @@
-https://yhvr.me/
+hello! most of my projects are on platforms *other* than github.
 
-https://gitlab.com/yhvr
+you may be interested in the following:
 
-https://codeberg.org/yhvr
+- galaxy + older projects: https://gitlab.com/yhvr
+- newer, smaller things: https://codeberg.org/yhvr
+- personal website: https://yhvr.me/
